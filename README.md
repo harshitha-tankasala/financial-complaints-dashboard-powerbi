@@ -6,6 +6,7 @@ A comprehensive Power BI dashboard built to visualize and analyze customer compl
 
 ## 📌 Table of Contents
 - [Project Overview](#project-overview)
+- [Dashboard overview](#Dashboard-Overview)
 - [Objectives](#objectives)
 - [Key Features](#key-features)
 - [KPIs Tracked](#kpis-tracked)
@@ -24,7 +25,9 @@ A comprehensive Power BI dashboard built to visualize and analyze customer compl
 Customer complaints are a critical metric for any financial organization. This Power BI project transforms raw complaint data into actionable insights by tracking response times, dispute rates, and complaint trends by region, product, and issue type. It equips business teams with the ability to identify bottlenecks, improve customer satisfaction, and support regulatory compliance.
 
 ---
+## 📊 Dashboard Preview
 
+![Dashboard Overview](./assets/dashboard-overview.png)
 ## 🎯 Objectives
 
 - Track the volume and nature of customer complaints over time
@@ -103,12 +106,6 @@ Customer complaints are a critical metric for any financial organization. This P
 - 📈 KPI Design and Metrics Tracking
 - 🧠 Insight generation from raw data
 - 🧹 Data Cleaning and Preparation
-
----
-
-## 🖼️ Screenshots
-
-> Add dashboard screenshots or GIFs here (use `assets/` folder)
 
 ---
 
