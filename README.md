@@ -27,7 +27,7 @@ Customer complaints are a critical metric for any financial organization. This P
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](./assets/dashboard-overview.png)
+![Dashboard Overview](https://github.com/harshitha-tankasala/financial-complaints-dashboard-powerbi/blob/main/financial%20complaints%20dashboard%20image.png)
 ## 🎯 Objectives
 
 - Track the volume and nature of customer complaints over time
